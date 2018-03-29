@@ -9,7 +9,7 @@
 I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
-However, I will think twice between answering. :joy:
+However, I will think twice before answering. :joy:
 
 ### Guidelines
 
