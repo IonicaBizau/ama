@@ -24,4 +24,4 @@ However, I will think twice before answering. :joy:
 ### Links
 
  - [Read more AMAs](https://github.com/sindresorhus/amas)
- - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+ - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#AMAs_("Ask_Me_Anything"))
